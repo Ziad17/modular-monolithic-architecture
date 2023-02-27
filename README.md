@@ -1,2 +1,1 @@
-# modular-monolithic-architecture
-A blueprint template for modular monolithic architecture in implementation as a web api project
+[Modular Monolithic.pdf](https://github.com/Ziad17/modular-monolithic-architecture/files/10837191/Modular.Monolithic.pdf)
